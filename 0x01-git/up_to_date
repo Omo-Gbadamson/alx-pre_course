@@ -1,0 +1,8 @@
+I am using the vi text editor to implement my code writing
+
+These are the command lines that was used:
+* git add . => Instrumental in helping to add up all the files that we made changes on
+* git commit -m <message> => Helps to stage the implemented changes in our code base
+* git push => Helps to push our code from our local code base to a remote arena
+* git branch => Helps check how many branches we have running on our repository
+* git checkout => Helps to create a new branch where we can push our isolated works into
